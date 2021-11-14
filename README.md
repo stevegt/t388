@@ -5,5 +5,5 @@ infrastructure config management and enterprise application
 architecture.  Could turn out to be a general-purpose
 distributed computing platform.
 
-Keywords: DML, ICM, DCP
+Keywords: DML, ICM, DCP, MCAL
 
